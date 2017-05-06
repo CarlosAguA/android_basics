@@ -1,6 +1,6 @@
 **Timeline**
 
-I started the course on January 11th and completed it on 17th April. According to some forums and reviews the course lasts 165 hours. 
+I started the course on January 11th and completed it on 17th April. According to some forums and reviews the course lasts 165 hours.
 
 **Projects **
 
@@ -8,10 +8,14 @@ I started the course on January 11th and completed it on 17th April. According t
 
 The  projects of the course were the following:
 
-* Business card app.
-* Score Keeper
-* Quiz App
-* Musical Structure
+Business card app.
+
+Score Keeper
+
+Quiz App
+
+Musical Structure
+
 * Report Card class.
 * Tour Guide app.
 * Book Listing app.

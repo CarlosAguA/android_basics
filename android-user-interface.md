@@ -6,15 +6,11 @@ A view is a rectangle on the screen that shows some content \(images, text, butt
 
 \[What is the layout in an Android app?\]\([https://www.quora.com/What-is-the-layout-in-an-Android-app\](https://www.quora.com/What-is-the-layout-in-an-Android-app%29\)
 
-```
-[link to Google!](http://google.com)
-```
-
 ### Basic Types of Views
 
 * TextView
 * ImageView
-* Button \[link to Googke!\]\(http://google.com\)
+* Button \[link to Googke!\]\([http://google.com\](http://google.com\)\)
 
 Everything about what you see and interact is called User Interface.
 

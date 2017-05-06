@@ -1,3 +1,7 @@
+**ANDROID BASICS NANODEGREE**
+
+The Android Basics Nanodegree is a course that can be found at /udacity.com. It will provide you with the basics of the Android Framework by following online videos and doing projects that have to be completed in the paid version. 
+
 **Timeline**
 
 I started the course on January 11th and completed it on 17th April. According to some forums and reviews the course lasts 165 hours.

@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Android : User Interface](android-user-interface.md)
-* [Android Basics: User Input](android-basics-user-input.md)
+* [Andoid: User Interface](andoid-user-interface.md)
+* Android: User Input
 

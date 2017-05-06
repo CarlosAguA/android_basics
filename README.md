@@ -21,7 +21,7 @@ The  projects of the course were the following:
 * Habit Tracker
 * Inventory app. 
 
-The projects can be found in \[Github\] \([https://github.com/CarlosAguA\](https://github.com/CarlosAguA\)\).
+The projects can be found in \[Github\] \([https://github.com/CarlosAguA\](https://github.com/CarlosAguA%29\)\).
 
 ## **Time Tracking**
 

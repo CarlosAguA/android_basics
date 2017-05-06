@@ -8,20 +8,25 @@ I started the course on January 11th and completed it on 17th April. According t
 
 The  projects of the course were the following:
 
-Business card app.
+-Business card app.
 
-Score Keeper
+-Score Keeper
 
-Quiz App
+-Quiz App
 
-Musical Structure
+-Musical Structure
 
-* Report Card class.
-* Tour Guide app.
-* Book Listing app.
-* News app.
-* Habit Tracker
-* Inventory app. 
+-Report Card class.
+
+-Tour Guide app.
+
+-Book Listing app.
+
+-News app.
+
+-Habit Tracker
+
+-Inventory app.
 
 **Time Tracking**
 

@@ -10,7 +10,7 @@ A view is a rectangle on the screen that shows some content \(images, text, butt
 
 * TextView
 * ImageView
-* Button \[link to Googke!\]\([http://google.c](http://google.com%29\)om\)
+* Button 
 
 Everything about what you see and interact is called User Interface.
 

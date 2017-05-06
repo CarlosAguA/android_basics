@@ -4,7 +4,7 @@ A view is a rectangle on the screen that shows some content \(images, text, butt
 
 " The layout defines the visual structure for your app. Android uses this structure to display the view elements on the screen. The most common are linear, relative and grid layouts but a combination is also possible "
 
-\[What is the layout in an Android app?\]
+\[What is the layout in an Android app?\]\(quora.com\)
 
 ### Basic Types of Views
 

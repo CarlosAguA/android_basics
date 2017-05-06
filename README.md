@@ -1,6 +1,6 @@
 # Android Basics Nanodegree
 
-This book summarizes the key concepts, projects and learning outcomes from the **Android Basics Nanodegree** at \[Udacity\]\([https://www.udacity.com](https://www.udacity.com/)\) by Google.
+This book summarizes the key concepts, projects and learning outcomes from the **Android Basics Nanodegree** at [Udacity](https://www.udacity.com/) by Google.
 
 ## **Timeline**
 
@@ -21,7 +21,7 @@ The  projects of the course were the following:
 * Habit Tracker
 * Inventory app. 
 
-The projects can be found in \[Github\]\( [https://github.com/CarlosAguA](https://github.com/CarlosAguA)\)
+The projects can be found in [Github](https://github.com/CarlosAguA](https://github.com/CarlosAguA)
 
 ## **Time Tracking**
 

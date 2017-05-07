@@ -1,4 +1,4 @@
-# Object Oriented Programming
+## Object Oriented Programming
 
 ## What are objects?
 
@@ -26,7 +26,9 @@ One can **Override **the methods from the extended class, so that you can change
 
 Other examples are the classes a TextView, ImageView and Button \(.java\). They all can have similar attributes like width, height, and visibility, among others. Instead of having all the states in each class one general class is definied called **View.java**. The previous classes are extended from the View class and the specific behaviors and states that those classes must have, are defined independently on each one.
 
-  ![](/assets/inheritance.jpg)
+![](/assets/inheritance.jpg)
+
+## What is polymorphism?
 
 #### Sources
 

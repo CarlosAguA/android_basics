@@ -22,5 +22,19 @@ The first thing to do is sketching the content of the db with the name of the ta
 
 * Delete table : `DROP TABLE headphones;`
 
+### SQlite commands
+
+**sqlite3 :** Command to open up the sqlite3 program in the Command Prompt.
+
+**sqlite3 shelter.db :** Command to open up the sqlite3 program and directly open up the following database file. You can substitute shelter.db for any other existing database file.
+
+**.open shelter.db :** Command inside the sqlite program to open a database file. In this case we are opening the shelter.db file. You can substitute any other existing .db file for shelter.db
+
+**.help :** Command to pint out a list of available commands.
+
+**.quit :** Command to quit the sqlite application.
+
+
+
 
 

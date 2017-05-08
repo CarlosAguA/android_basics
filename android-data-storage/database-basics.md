@@ -1,18 +1,18 @@
 # Database basics
 
-## What is data persistence ? 
+## What is data persistence ?
 
-It refers to saving the data in a permanent way. 
+It refers to saving the data in a permanent way.
 
 ## What are the options to persist data in Android ?
 
-Saving data in a file or in a database. 
+Saving data in a file or in a database.
 
 ## When to use data persistence in Android ?
 
-When you need a permanent way to save user data, so that when you close and reopen an app, the data will still be there. 
+When you need a permanent way to save user data, so that when you close and reopen an app, the data will still be there.
 
-### Persist \(definition\) 
+### Persist \(definition\)
 
 1. to remain unchanged or fixed in a specified character, condition, or position.
 

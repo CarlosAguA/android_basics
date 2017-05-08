@@ -25,5 +25,5 @@ The projects can be found in [Github](https://github.com/CarlosAguA)
 
 ## **Time Tracking**
 
-An app called **Toggle** was used in order to track the time I spent on each project. The time tracking was relevant from the 5th project to the last one, since they were the ones that required a  meaningful amount of time. The time tracking allowed me to keep  keep working regularly at a pace of 10-15 hrs p/week.
+An app called **Toggle** was used in order to track the time I spent on each project. The time tracking was relevant from the 5th project to the last one, since they were the ones that required a  meaningful amount of time. The time tracking allowed me to keep  working regularly at a pace of 10-15 hrs p/week.
 

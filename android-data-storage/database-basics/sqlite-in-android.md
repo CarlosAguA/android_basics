@@ -2,7 +2,7 @@
 
 Doing SQLite databases out of the context of Android.
 
-# What is SQLite ?
+## What is SQLite ?
 
 Library that makes it easy for you to create a local database on the device that an app is interacting with. 
 
@@ -20,7 +20,7 @@ Because is a lightweight version of a typical database, since there are more hea
 
 ## Installing SQLite on the computer
 
-In order to use SQLite on the computer, you can follow the \[tutorial\]\(http://www.tutorialspoint.com/sqlite/sqlite\_installation.htm\) recommended by the course and download the files from \[sqlite webpage\]\(http://www.sqlite.org/download.html\). The steps for Windows in general are :
+In order to use SQLite on the computer, you can follow the [tutorial(http://www.tutorialspoint.com/sqlite/sqlite\_installation.htm\) recommended by the course and download the files from \[sqlite webpage\]\(http://www.sqlite.org/download.html\). The steps for Windows in general are :
 
 ### Windows {#windows}
 

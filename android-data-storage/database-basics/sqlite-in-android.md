@@ -22,7 +22,7 @@ Because is a lightweight version of a typical database, since there are more hea
 
 In order to use SQLite on the computer, you can follow the [tutorial](http://www.tutorialspoint.com/sqlite/sqlite\_installation.htm) recommended by the course and download the files from [sqlite webpage](http://www.sqlite.org/download.html). The general steps for Windows are :
 
-### Windows {#windows}
+### Windows
 
 To install SQLite on a Windows machine, you'll need to
 

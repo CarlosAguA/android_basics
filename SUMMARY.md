@@ -10,5 +10,5 @@
 * [Android: Data Storage](android-data-storage.md)
   * [Database basics](android-data-storage/database-basics.md)
     * [SQLite in Android](android-data-storage/database-basics/sqlite-in-android.md)
-  * Using Database in Android App
+  * [Using Database in Android App](android-data-storage/using-database-in-android-app.md)
 

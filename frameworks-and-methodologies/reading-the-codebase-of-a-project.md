@@ -22,6 +22,6 @@ After checking the folders you can start creating the visual diagram of the diff
 According to the video of the lesson 1 : Activities and intents: Quiz: import an existing project, having a mental map in our head will help us figure out what parts of the app you would need to modify to make new features work properly.
 
 ### Summary
-If the changes are related to the logic and how the app responds, you should go to the java folder.
+If the changes are related to the **logic** and how the app responds, you should go to the **java folder**.
 
-If the cahnges are related to the view and design of the app, you should go to the resources folder.
+If the cahnges are related to the **view and design** of the app, you should go to the **resources folder**.

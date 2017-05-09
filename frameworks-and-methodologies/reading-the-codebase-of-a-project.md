@@ -22,7 +22,7 @@ Main Screen News Feed     \|      Order By Setting     \|     Category Setting  
 
 Solarized dark             |  Solarized Ocean          |   Solarized Ocean         |
 :-------------------------:|:-------------------------:|:-------------------------:|
-![](assets/logic.png)  |  ![](assets/layout.png) |  ![](assets/drawables.png) |
+![](/assets/logic.png)  |  ![](/assets/layout.png) |  ![](/assets/drawables.png) |
 
 
 

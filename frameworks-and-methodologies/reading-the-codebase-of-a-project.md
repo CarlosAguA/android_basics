@@ -16,7 +16,7 @@ When you import a project you can start exploring it
 
 Main Screen News Feed     |      Order By Setting     |     Category Setting      |      Article Webpage      |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-![](/assets/logic.png)  |  ![](/assets/layout.png) | ![](/assets/drawables.png) | ![](/assets/values.png) |
+![](/assets/logic.png)  |  ![](/assets/layout.png) | ![](/assets/drawable.png) | ![](/assets/values.png) |
 
 
 

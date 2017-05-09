@@ -20,6 +20,10 @@ Main Screen News Feed     \|      Order By Setting     \|     Category Setting  
 
 !\[\]\(/assets/logic.png\)  \|  !\[\]\(/assets/layout.png\) \| !\[\]\(/assets/drawables.png\) \| !\[\]\(/assets/values.png\) \|
 
+Solarized dark             |  Solarized Ocean          |   Solarized Ocean         |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](assets/logic.png)  |  ![](assets/layout.png) |  ![](assets/drawables.png) |
+
 
 
 After checking the folders you can start creating the visual diagram of the different parts of the app.

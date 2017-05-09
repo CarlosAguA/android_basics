@@ -21,5 +21,5 @@ Java Folder             |      Layout Folder           |      Drawable Folder   
 
 After checking the folders you can start creating the visual diagram of the different parts of the app.
 
-![](/assets/codebase_reading.png)
+![](/assets/Codebase_reading.png)
 

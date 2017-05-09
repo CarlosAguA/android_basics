@@ -1,9 +1,10 @@
-## Data storage
+# Data storage
+
+---
 
 This section of the ABND focuses on data storage.
 
-According to the [android developers data storage documentation](https://developer.android.com/guide/topics/data/data-storage.html "Android developers data storage")   
-, the options to save persistent application data are:
+According to the [android developers data storage documentation](https://developer.android.com/guide/topics/data/data-storage.html "Android developers data storage"), the options to save persistent application data are:
 
 1. **Shared Preferences**.  Store private primitive data in key-value pairs.
 2. **Internal Storage**. Store private data on the device memory.

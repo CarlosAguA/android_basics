@@ -14,15 +14,10 @@ When you import a project you can start exploring it
 * Strings
 * Styles: the theme of the app is defined here.
 
-Main Screen News Feed     \|      Order By Setting     \|     Category Setting      \|      Article Webpage      \|
+Main Screen News Feed     |      Order By Setting     |     Category Setting      |      Article Webpage      |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![](/assets/logic.png)  |  ![](/assets/layout.png) | ![](/assets/drawables.png) | ![](/assets/values.png) |
 
-:-------------------------:\|:-------------------------:\|:-------------------------:\|:-------------------------:\|
-
-!\[\]\(/assets/logic.png\)  \|  !\[\]\(/assets/layout.png\) \| !\[\]\(/assets/drawables.png\) \| !\[\]\(/assets/values.png\) \|
-
-Solarized dark             |  Solarized Ocean          |   Solarized Ocean         |
-:-------------------------:|:-------------------------:|:-------------------------:|
-![](/assets/logic.png)  |  ![](/assets/layout.png) |  ![](/assets/drawables.png) |
 
 
 

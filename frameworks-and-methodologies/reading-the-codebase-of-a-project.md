@@ -9,12 +9,18 @@ When you import a project you can start exploring it
 5. Images of the app go on the drawable folder.
 6. The values folder contains:
 
-*  Dimensions, 
+* Dimensions.
 * Colors, 
-* Strings and 
+* Strings
 * Styles: the theme of the app is defined here.
 
+Main Screen News Feed     \|      Order By Setting     \|     Category Setting      \|      Article Webpage      \|
+
+:-------------------------:\|:-------------------------:\|:-------------------------:\|:-------------------------:\|
+
+!\[\]\(/assets/logic.png\)  \|  !\[\]\(/assets/layout.png\) \| !\[\]\(/assets/drawables.png\) \| !\[\]\(/assets/values.png\) \|
+
+
+
 After checking the folders you can start creating the visual diagram of the different parts of the app.
-
-
 

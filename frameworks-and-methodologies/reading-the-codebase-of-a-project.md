@@ -14,12 +14,12 @@ When you import a project you can start exploring it
 * Strings
 * Styles: the theme of the app is defined here.
 
-Main Screen News Feed     |      Order By Setting     |     Category Setting      |      Article Webpage      |
+Java Folder             |      Layout Folder           |      Drawable Folder     |     Values Folder          |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](/assets/logic.png)  |  ![](/assets/layout.png) | ![](/assets/drawable.png) | ![](/assets/values.png) |
 
 
-
-
 After checking the folders you can start creating the visual diagram of the different parts of the app.
+
+![](/assets/codebase reading.png)
 

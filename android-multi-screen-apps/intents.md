@@ -1,6 +1,6 @@
 # Intents
 
-## What type of intents exist?
+## What types of intents exist?
 
 There are two types of intents. Explicit and implicit.
 
@@ -34,9 +34,9 @@ An implicit intent allows you to **start an activity** in another app by **descr
 
 ### Sources
 
-\[App comonents\]\([https://developer.android.com/guide/components/fundamentals.html\#Components\](https://developer.android.com/guide/components/fundamentals.html#Components\)\)
+\[App comonents\]\([https://developer.android.com/guide/components/fundamentals.html\#Components\](https://developer.android.com/guide/components/fundamentals.html#Components%29\)
 
-\[Intents and intent filters\]\([https://developer.android.com/guide/components/intents-filters.html\](https://developer.android.com/guide/components/intents-filters.html\)\)
+\[Intents and intent filters\]\([https://developer.android.com/guide/components/intents-filters.html\](https://developer.android.com/guide/components/intents-filters.html%29\)
 
-\[Common intents\]\(https://developer.android.com/guide/components/intents-common.html\#Music\)
+\[Common intents\]\([https://developer.android.com/guide/components/intents-common.html\#Music\](https://developer.android.com/guide/components/intents-common.html#Music\)\)
 

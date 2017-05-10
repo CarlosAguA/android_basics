@@ -36,7 +36,7 @@ An implicit intent allows you to **start an activity** in another app by **descr
 
 [App comonents](https://developer.android.com/guide/components/fundamentals.html\#Components)
 
-[Intents and intent filters]([https://developer.android.com/guide/components/intents-filters.html)
+[Intents and intent filters](https://developer.android.com/guide/components/intents-filters.html)
 
-[Common intents]([https://developer.android.com/guide/components/intents-common.html\#Music)
+[Common intents](https://developer.android.com/guide/components/intents-common.html\#Music)
 

@@ -21,7 +21,7 @@ There are four different types of app components:
 
 ## What is an explicit intent?
 
-An explicit intent allows you to **start a component** in your own app, because you know the class name of **the activity or service **you want to start.
+An explicit intent allows you to **start a component** in your own app, because you know the class name of **the activity or service** you want to start.
 
 ## What is an implicit intent?
 

@@ -32,11 +32,33 @@ An implicit intent allows you to **start an activity** in another app by **descr
 * Capture a picture and return it.
 * Make a call. 
 
+## What´s inside an intent?
+
+You can imagine the intent, which we already stated it is a messaging object, as a ball. When we launch it it may contain different things depending on if it´s explicit or implicit. 
+
+!\[\]\(/assets/intents.jpg\)
+
+### Code example of explicit intent.
+
+```
+Intent intent = new Intent(CatalogActivity.this, DetailsActivity.class);
+                intent.putExtra("fab_button", message);
+                startActivity(intent);
+```
+
+### Code example of implicit intent.
+
+```
+  Intent intent = new Intent(Intent.ACTION_DIAL);
+                intent.setData(Uri.parse("tel:" + phoneToCall));
+                startActivity(intent);
+```
+
 ### Sources
 
-[App comonents](https://developer.android.com/guide/components/fundamentals.html\#Components)
+[App comonents](https://developer.android.com/guide/components/fundamentals.html#Components)
 
 [Intents and intent filters](https://developer.android.com/guide/components/intents-filters.html)
 
-[Common intents](https://developer.android.com/guide/components/intents-common.html\#Music)
+[Common intents](https://developer.android.com/guide/components/intents-common.html#Music)
 

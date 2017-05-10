@@ -36,7 +36,7 @@ An implicit intent allows you to **start an activity** in another app by **descr
 
 You can imagine the intent, which we already stated it is a messaging object, as a ball. When we launch it it may contain different things depending on if it´s explicit or implicit. 
 
-![](/assets/intents.jpg\)
+![](/assets/intents.jpg)
 
 ### Code example of explicit intent.
 

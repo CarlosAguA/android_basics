@@ -2,13 +2,13 @@
 
 ## What type of intents exist?
 
-There are two types of intents. Explicit and implicit.  
+There are two types of intents. Explicit and implicit.
 
-## What is an intent? 
+## What is an intent?
 
-An intent is a messaging object you can use to request an action from another app component. 
+An intent is a messaging object you can use to request an action from another app component.
 
-## What is an app component? 
+## What is an app component?
 
 They are the essential builiding blocks of an Android app. Each component is an entry point through which the system or a user can enter your app.
 
@@ -32,13 +32,11 @@ An implicit intent allows you to **start an activity** in another app by **descr
 * Capture a picture and return it.
 * Make a call. 
 
-### Sources 
+### Sources
 
-\[App comonents\]\(https://developer.android.com/guide/components/fundamentals.html\#Components\)
+\[App comonents\]\([https://developer.android.com/guide/components/fundamentals.html\#Components\](https://developer.android.com/guide/components/fundamentals.html#Components\)\)
 
-\[Intents and intent filters\]\(https://developer.android.com/guide/components/intents-filters.html\)
+\[Intents and intent filters\]\([https://developer.android.com/guide/components/intents-filters.html\](https://developer.android.com/guide/components/intents-filters.html\)\)
 
-
-
-
+\[Common intents\]\(https://developer.android.com/guide/components/intents-common.html\#Music\)
 

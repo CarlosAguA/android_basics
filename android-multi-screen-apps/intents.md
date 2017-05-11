@@ -1,5 +1,7 @@
 # Intents
 
+---
+
 ## What types of intents exist?
 
 There are two types of intents. Explicit and implicit.
@@ -34,7 +36,7 @@ An implicit intent allows you to **start an activity** in another app by **descr
 
 ## What´s inside an intent?
 
-You can imagine the intent, which we already stated it is a messaging object, as a ball. When we launch it it may contain different things depending on if it´s explicit or implicit. On the picture below the minimum parameters are in bold while the additional parameters an intent may contain are not. 
+You can imagine the intent, which we already stated it is a messaging object, as a ball. When we launch it it may contain different things depending on if it´s explicit or implicit. On the picture below the minimum parameters are in bold while the additional parameters an intent may contain are not.
 
 ![](/assets/intents.jpg)
 

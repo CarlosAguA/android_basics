@@ -6,7 +6,7 @@ In order to understand an interface, you need to remember what a class is. A cla
 
 ### Example concrete class
 
-The following code shows the **Book** class. The states are** author **and **title**.The implemented methods are  `getAuthor()` and `getTitle().`
+The following code shows the **Book** class. The states are **author** and **title**.The implemented methods are  `getAuthor()` and `getTitle().`
 
 ```
 public class Book {
@@ -29,7 +29,7 @@ public class Book {
 
 ## What´s an interface ?
 
-In Java Interfaces are equivalent to protocols. They basically represent an agreed-upon behavior to facilitate interaction between unrelated objects. In summary, an Interface is normally a group of methods with empty bodies.
+In Java, Interfaces are equivalent to protocols. They basically represent an agreed-upon behavior to facilitate interaction between unrelated objects. In summary, an interface is normally a group of methods with empty bodies.
 
 The interface `onClickListener()`has one abstract method called `onClick()`,which provide developers the power to customize its behavior.
 

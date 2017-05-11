@@ -106,11 +106,13 @@ There exist a possibility to use event handlers which won´t be covered in this 
 
 ### Defining the listener in the xml file
 
+Pending.
+
 ### Sources
 
-\[Input events\]\([https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\](https://developer.android.com/guide/topics/ui/ui-events.html#EventListeners\)\)
+\[Input events\]\([https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\](https://developer.android.com/guide/topics/ui/ui-events.html#EventListeners%29\)
 
-\[Android button onClickListener\]\([http://stackoverflow.com/questions/16636752/android-button-onclicklistener\](http://stackoverflow.com/questions/16636752/android-button-onclicklistener\)\)
+\[Android button onClickListener\]\([http://stackoverflow.com/questions/16636752/android-button-onclicklistener\](http://stackoverflow.com/questions/16636752/android-button-onclicklistener%29\)
 
 Intents and Activities /13.Event Listeners in Android
 

@@ -63,11 +63,11 @@ The method's name, return value and the parameter types.
 
 ### Sources
 
-[Difference between interface and abstract class](http://www.onsandroid.com/2011/12/difference-between-interface-and.html\)
+[Difference between interface and abstract class](http://www.onsandroid.com/2011/12/difference-between-interface-and.html)
 
-[Method´s signature](http://stackoverflow.com/questions/16149285/does-a-methods-signature-in-java-include-its-return-type\)
+[Method´s signature](http://stackoverflow.com/questions/16149285/does-a-methods-signature-in-java-include-its-return-type)
 
-[The onClickListener interface](https://developer.android.com/reference/android/view/View.OnClickListener.html\)
+[The onClickListener interface](https://developer.android.com/reference/android/view/View.OnClickListener.html)
 
 
 

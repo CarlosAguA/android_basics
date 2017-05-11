@@ -31,7 +31,7 @@ public class Book {
 
 In Java Interfaces are equivalent to protocols. They basically represent an agreed-upon behavior to facilitate interaction between unrelated objects. In summary, an Interface is normally a group of methods with empty bodies.
 
-The interface **`onClickListener()`**has one abstract method called **`onClick()`**,which provide  developers the power to customize its behavior.
+The interface `onClickListener()`has one abstract method called `onClick()`,which provide  developers the power to customize its behavior.
 
 ```
 button.setOnClickListener(new View.OnClickListener() {
@@ -48,17 +48,28 @@ In Java, abstract class is a class which has been declared ‘abstract’. By de
 
 ## What´s an abstract method?
 
-An abstract method is a method which doesn’t have any implementation. 
+An abstract method is a method which doesn’t have any implementation.
 
 ```
            @Override
             public void onClick(View view) {
                 // Do something
             }
-
 ```
 
 ## What´s a method´s signature?
 
 The method's name, return value and the parameter types.
+
+### Sources
+
+\[Difference between interface and abstract class\] \(http://www.onsandroid.com/2011/12/difference-between-interface-and.html\)
+
+\[Method´s signature\] \(http://stackoverflow.com/questions/16149285/does-a-methods-signature-in-java-include-its-return-type\)
+
+\[The onClickListener interface\]\(https://developer.android.com/reference/android/view/View.OnClickListener.html\)
+
+
+
+
 

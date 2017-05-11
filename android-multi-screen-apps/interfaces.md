@@ -2,7 +2,7 @@
 
 ---
 
-In order to understand an interface, you need to remember what a class is. A class contains the **state **and **methods** which are fully implemented.
+In order to understand an interface, you need to remember what a class is. A class contains the **state** and **methods** which are fully implemented.
 
 ### Example concrete class
 

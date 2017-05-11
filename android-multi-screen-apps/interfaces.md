@@ -27,9 +27,38 @@ public class Book {
     }
 ```
 
+## What´s an interface ?
 
+In Java Interfaces are equivalent to protocols. They basically represent an agreed-upon behavior to facilitate interaction between unrelated objects. In summary, an Interface is normally a group of methods with empty bodies.
 
-**Method´s signature**: the method's name, return value and the parameter types.
+The interface **`onClickListener()`**has one abstract method called **`onClick()`**,which provide  developers the power to customize its behavior.
 
+```
+button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // Do something
+            }
+        });
+```
 
+## What´s an abstract class?
+
+In Java, abstract class is a class which has been declared ‘abstract’. By declaring ‘abstract’ we ensure that the class can’t be instantiated.
+
+## What´s an abstract method?
+
+An abstract method is a method which doesn’t have any implementation. 
+
+```
+           @Override
+            public void onClick(View view) {
+                // Do something
+            }
+
+```
+
+## What´s a method´s signature?
+
+The method's name, return value and the parameter types.
 

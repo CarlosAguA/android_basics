@@ -58,7 +58,6 @@ public class ExampleActivity extends Activity implements OnClickListener {
 ### Defining an anonymous class
 
 The key in this implementation is to pass  an instance of your implementation to the respective`View.set...Listener()`
-
 method.
 
 ```

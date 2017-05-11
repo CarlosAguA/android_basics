@@ -124,11 +124,11 @@ Pending.
 
 ### Sources
 
-\[Input events\]\([https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\](https://developer.android.com/guide/topics/ui/ui-events.html#EventListeners%29\)
+[Input events](https://developer.android.com/guide/topics/ui/ui-events.html#EventListeners%29)
 
-\[Android button onClickListener\]\([http://stackoverflow.com/questions/16636752/android-button-onclicklistener\](http://stackoverflow.com/questions/16636752/android-button-onclicklistener%29\)
+[Android button onClickListener](http://stackoverflow.com/questions/16636752/android-button-onclicklistener%29)
 
 Intents and Activities /13.Event Listeners in Android
 
-\[onClickListener implementation\] \(http://stackoverflow.com/questions/11815101/view-onclicklistener-a-function-or-interface\)
+[onClickListener implementation](http://stackoverflow.com/questions/11815101/view-onclicklistener-a-function-or-interface)
 

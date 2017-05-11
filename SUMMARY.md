@@ -5,7 +5,8 @@
 * [Android: User Input](android-user-input.md)
   * [Object Oriented Programming](android-user-input/object-oriented-programming.md)
   * [Casting with findByView](android-user-input/casting-with-findbyview.md)
-  * References
+  * [References](android-user-input/references.md)
+  * [Additional Resources](android-user-input/additional-resources.md)
 * [Android: Multi Screen Apps](android-multi-screen-apps.md)
   * [Intents](android-multi-screen-apps/intents.md)
 * [Android: Data Storage](android-data-storage.md)

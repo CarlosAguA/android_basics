@@ -79,7 +79,7 @@ protected void onCreate(Bundle savedValues) {
 }
 ```
 
-### Creating the onClickListener method for a button or view
+### Creating the onClickListener method for a button or view as inner class
 
 ```
  protected void onCreate(Bundle icicle) {
@@ -98,7 +98,23 @@ protected void onCreate(Bundle savedValues) {
 
 ### Creating a private class
 
-Pending
+The class may be created In a separate file or within the activity file.
+
+```
+class MyOnClickListener implements View.OnClickListener {
+    @Override           
+    public void onClick(View v) {
+        // Handle view click here           
+    }
+}
+```
+
+Then, an instance must be created and registered to the view.
+
+```
+MyOnClickListener listener = new MyOnClickListener();
+myView.setOnClickListener(listener);
+```
 
 There exist a possibility to use event handlers which won´t be covered in this work.
 

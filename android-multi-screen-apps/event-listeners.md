@@ -37,6 +37,7 @@ There are three options for implementing a listener:
 * Creating a private class
 * Define an anonymous class
 * Creating the onClickListener for the Button
+* Defining the listener in the xml file.
 
 ### Implementing an OnClickListener as part of the activity
 
@@ -56,7 +57,7 @@ public class ExampleActivity extends Activity implements OnClickListener {
 }
 ```
 
-### Defining an anonymous class.
+### Defining an anonymous class
 
 The key in this implementation is to pass  an instance of your implementation to the respective`View.set...Listener()`
 
@@ -90,7 +91,7 @@ protected void onCreate(Bundle savedValues) {
     final Button button = (Button) findViewById(R.id.button_id);
     button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-              
+
               // Perform action on click   
             }
           });
@@ -103,13 +104,13 @@ Pending
 
 There exist a possibility to use event handlers which won´t be covered in this work.
 
+### Defining the listener in the xml file
+
 ### Sources
 
-\[Input events\]\(https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\)
+\[Input events\]\([https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\](https://developer.android.com/guide/topics/ui/ui-events.html#EventListeners\)\)
 
-\[Android button onClickListener\]\(http://stackoverflow.com/questions/16636752/android-button-onclicklistener\)
+\[Android button onClickListener\]\([http://stackoverflow.com/questions/16636752/android-button-onclicklistener\](http://stackoverflow.com/questions/16636752/android-button-onclicklistener\)\)
 
 Intents and Activities /13.Event Listeners in Android
-
-
 

@@ -1,6 +1,4 @@
-```
-Event listeners
-```
+# Event listeners
 
 ---
 

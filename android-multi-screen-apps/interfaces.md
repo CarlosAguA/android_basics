@@ -2,7 +2,7 @@
 
 ---
 
-In order to understand an interface, you need to remember what a clas is. A class contains the **state **and **methods** which are fully implemented.
+In order to understand an interface, you need to remember what a class is. A class contains the **state **and **methods** which are fully implemented.
 
 ### Example concrete class
 
@@ -31,7 +31,7 @@ public class Book {
 
 In Java Interfaces are equivalent to protocols. They basically represent an agreed-upon behavior to facilitate interaction between unrelated objects. In summary, an Interface is normally a group of methods with empty bodies.
 
-The interface `onClickListener()`has one abstract method called `onClick()`,which provide  developers the power to customize its behavior.
+The interface `onClickListener()`has one abstract method called `onClick()`,which provide developers the power to customize its behavior.
 
 ```
 button.setOnClickListener(new View.OnClickListener() {
@@ -63,11 +63,11 @@ The method's name, return value and the parameter types.
 
 ### Sources
 
-\[Difference between interface and abstract class\] \(http://www.onsandroid.com/2011/12/difference-between-interface-and.html\)
+[Difference between interface and abstract class](http://www.onsandroid.com/2011/12/difference-between-interface-and.html\)
 
-\[Method´s signature\] \(http://stackoverflow.com/questions/16149285/does-a-methods-signature-in-java-include-its-return-type\)
+[Method´s signature](http://stackoverflow.com/questions/16149285/does-a-methods-signature-in-java-include-its-return-type\)
 
-\[The onClickListener interface\]\(https://developer.android.com/reference/android/view/View.OnClickListener.html\)
+[The onClickListener interface](https://developer.android.com/reference/android/view/View.OnClickListener.html\)
 
 
 

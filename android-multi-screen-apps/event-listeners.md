@@ -1,10 +1,12 @@
-# Event listeners
+```
+Event listeners
+```
 
 ---
 
 The user interact with the apps by touching the screen. This corresponds to user input events. You can choose to get notified when certain events occur on a specific view.
 
-The paradigm is called: **listening for a certain event**. Once you know the event has happened, you can program what should happen when an user interacts with a part of the UI. 
+The paradigm is called: **listening for a certain event**. Once you know the event has happened, you can program what should happen when an user interacts with a part of the UI.
 
 ## What is an input event?
 
@@ -78,9 +80,36 @@ protected void onCreate(Bundle savedValues) {
 }
 ```
 
+### Creating the onClickListener method for a button or view
 
+```
+ protected void onCreate(Bundle icicle) {
+    super.onCreate(icicle);
+    setContentView(R.layout.content_layout_id);
 
-There are different kinds of event listeners like for keys, touch, button and they can be implemented in several ways. For instance, adding implements onClickListener, creating a private class and creating the onClickListener for the Button. There are also some Events Managers. 
+    final Button button = (Button) findViewById(R.id.button_id);
+    button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+              
+              // Perform action on click   
+            }
+          });
+  }
+```
+
+### Creating a private class
+
+Pending
+
+There exist a possibility to use event handlers which won´t be covered in this work.
+
+### Sources
+
+\[Input events\]\(https://developer.android.com/guide/topics/ui/ui-events.html\#EventListeners\)
+
+\[Android button onClickListener\]\(http://stackoverflow.com/questions/16636752/android-button-onclicklistener\)
+
+Intents and Activities /13.Event Listeners in Android
 
 
 
